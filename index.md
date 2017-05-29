@@ -2,7 +2,7 @@
 <!-- GLHF ONLY KIDS -->
 <html>
   <head>
-    <title>28Scape</title>
+    <title>28Scape Is Leffa</title>
   </head>
 
   <body>
