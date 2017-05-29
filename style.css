@@ -5,6 +5,11 @@
 
 body {
   background: Tan;
+  width: 300px;
+  border: 25px DarkGrey;
+  padding: 25px;
+  margin: 25px;
+}
 }
 
 h1, p {
