@@ -15,6 +15,6 @@
       <li> donate </li>
       </ul>
       <h2>Features</h2>
-      <p> Anypati interested in any of the above should click <a href="https://www.youtube.com/user/migrationology" this link only</a> for dl server and best time only </p>
+      <p> Anypati interested in any of the above should click <a href="https://www.youtube.com/user/migrationology"> this link only</a> for dl server and best time only </p>
   </body>
 </html>
