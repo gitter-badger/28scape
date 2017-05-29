@@ -1,11 +1,12 @@
 /* Lol what is just is must only */
 * {
   font-family: 'Raleway', sans-serif;
+  text-align: center
 }
 
 body {
   background: Tan;
-  width: 300px;
+  width: 768px;
   border: 25px DarkGrey;
   padding: 25px;
   margin: 25px;
