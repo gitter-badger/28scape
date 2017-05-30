@@ -1,10 +1,10 @@
 * {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'VT323', monospace;
   text-align: center;
 }
 
 body {
-  background: Tan;
+  background: rgb(0, 0, 0);
 }
 
 .header {
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-  color: #999;
+  color: rgb(0, 212, 0);
   font-size: 100px;
   line-height: 555px;
   margin: 0;
@@ -22,8 +22,8 @@ h1 {
   top: 20%auto;
 }
 
-h4, p {
-  color: #666;
+h3, h4, p, li {
+  color: rgb(0, 212, 0);
 }
 
 p {
@@ -31,21 +31,13 @@ p {
 }
 
 a {
-  color: SeaGreen;
+  color: rgb(137, 222, 0);
   text-decoration: none;
 }
 
 ul {
   display:table;
   margin:0 auto;
-}
-
-li {
-  color: #666;
-}
-
-h3 {
-  Color: DimGrey;
 }
 
 img {
