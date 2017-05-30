@@ -27,7 +27,7 @@ h3, h4, p, li {
   color: rgb(0, 212, 0);
 }
 
-p {
+p, li {
   font-size: 26px;
 }
 
