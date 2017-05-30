@@ -1,5 +1,6 @@
 * {
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 
 body {
@@ -7,8 +8,7 @@ body {
 }
 
 h1, h4, p {
-  color: DarkGrey;
-  text-align: center;
+  color: DimGrey;
 }
 
 p {
@@ -21,11 +21,11 @@ a {
 }
 
 li {
-  color: DarkGrey;
+  color: DimGrey;
 }
 
 h3 {
-  Color: DarkGrey;
+  Color: DimGrey;
 }
 
 img {
