@@ -16,6 +16,7 @@ body {
 h1 {
   color: rgb(0, 212, 0);
   font-size: 130px;
+  text-transform: uppercase;
   line-height: 555px;
   margin: 0;
   position: relative;
