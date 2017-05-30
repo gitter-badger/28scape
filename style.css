@@ -16,13 +16,13 @@ body {
 }
 
 h1 {
-  color: hsl(0, 0%, 40%);
+  color: #666;
   font-size: 100px;
   line-height: 76px;
 }
 
 h4, p {
-  color: DimGrey;
+  color: #666;
 }
 
 p {
@@ -40,7 +40,7 @@ ul {
 }
 
 li {
-  color: DimGrey;
+  color: #666;
 }
 
 h3 {
