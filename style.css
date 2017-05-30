@@ -13,6 +13,18 @@ body {
   background-position: center;
 }
 
+nav {
+  font-size: 150%;
+  border-top: 1px solid #460;
+  border-right: 1px solid #460;
+  border-left: 1px solid #460;
+  background-color: #666
+}
+
+nav a:hover {
+    background-color:#333;
+}
+
 h1 {
   color: rgb(0, 212, 0);
   font-size: 130px;
