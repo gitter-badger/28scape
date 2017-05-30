@@ -14,9 +14,12 @@ body {
 }
 
 h1 {
-  color: #666;
+  color: #999;
   font-size: 100px;
-  line-height: 76px;
+  line-height: 555px;
+  margin: 0;
+  position: relative;
+  top: 20%auto;
 }
 
 h4, p {
