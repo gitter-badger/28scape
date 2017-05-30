@@ -7,6 +7,14 @@ body {
   background: Tan;
 }
 
+/* HEADER ONLY */
+
+.header {
+  background-image: url("https://pbs.twimg.com/media/C-hP95RU0AAnRBk.jpg");
+  height: 400px;
+  background-position: center;
+}
+
 h1, h4, p {
   color: DimGrey;
 }
