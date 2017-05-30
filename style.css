@@ -20,6 +20,11 @@ a {
   text-decoration: none;
 }
 
+ul {
+  display:table;
+  margin:0 auto;
+}
+
 li {
   color: DimGrey;
 }
