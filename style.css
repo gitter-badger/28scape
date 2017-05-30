@@ -1,7 +1,6 @@
 /* Lol what is just is must only */
 * {
   font-family: 'Raleway', sans-serif;
-  text-align: center;
 }
 
 body {
@@ -9,16 +8,23 @@ body {
 }
 
 h1, p {
-  color: #DarkGrey;
+  color: DarkGrey;
+  text-align: center;
 }
 
 p {
   font-size: 18px;
+  text-align: center;
 }
 
 a {
   color: SeaGreen;
   text-decoration: none;
+}
+
+li {
+  text-align: center;
+  color: DarkGrey;
 }
 
 img {
