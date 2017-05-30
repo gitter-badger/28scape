@@ -19,9 +19,6 @@ h1 {
   color: hsl(0, 0%, 40%);
   font-size: 100px;
   line-height: 76px;
-  margin: 0;
-  position: relative;
-  top: 20%;
 }
 
 h4, p {
