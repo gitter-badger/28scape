@@ -7,11 +7,15 @@ body {
   background: rgb(0, 0, 0);
 }
 
+/********* HEADERS HEADERS HEADERS HEADERS HEADERS *********/
+
 .header {
   background-image: url("https://image.ibb.co/n8AtiF/39250432e0bc4c0e847366364fc86e70.png");
   height: 400px;
   background-position: center;
 }
+
+/*********        END OF HEADERS     ************/
 
 nav {
   font-size: 150%;
